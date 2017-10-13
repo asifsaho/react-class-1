@@ -1,0 +1,11 @@
+@import 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css';
+
+
+.movie {
+    border: 1px solid #d0d0d0;
+    padding: 16px 0;
+}
+
+.movie h2 {
+    margin-top: 0;
+}
